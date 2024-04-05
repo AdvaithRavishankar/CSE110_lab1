@@ -9,6 +9,6 @@ My name is Advaith Ravishankar. I am *_Math+CS and Cognitive Science Double Majo
 ## Demo of Code
 Here is a quick demo of python code
 
-'''python
+```python
 def hello(name):
     print(f'hello, {name}. Welcome to my user page!')
