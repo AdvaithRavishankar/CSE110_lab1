@@ -40,8 +40,8 @@ My favorite search engine is  [Google](https://www.google.com/)
 3. to see how I added the private.txt file look at [private](screenshots/Added_private_and_gitignore.png)
 
 ### List of tasks for this assigments
-- [x] ###### Headings
-- [x] **sttling quotes**
+- [x] Headings
+- [x] **styling quotes**
 - [x] Quoting text
 - [x] Quoting code
 - [x] external linkes
