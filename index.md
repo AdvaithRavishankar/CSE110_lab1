@@ -11,7 +11,7 @@ My name is Advaith Ravishankar. I am *_Math+CS and Cognitive Science Double Majo
 2. [Table of contents](#table-of-contents)
 3. [Demo of Code](#demo-of-code)
 4. [Programming langauges I know](#programming-langauges-i-know)
-5. [Creating this repository](#creeating-this-repository)
+5. [Creating this repository](#creating-this-repository)
 6. [List of tasks for this assigments](#list-of-tasks-for-this-assigments)
 
 ## Demo of Code
