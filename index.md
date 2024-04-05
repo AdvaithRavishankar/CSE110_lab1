@@ -11,7 +11,7 @@ My name is Advaith Ravishankar. I am *_Math+CS and Cognitive Science Double Majo
 2. [Table of contents](#table-of-contents)
 3. [Demo of Code](#demo-of-code)
 4. [Programming langauges I know](#programming-langauges-i-know)
-5. [Creeating this repository](#creeating-this-repository)
+5. [Creating this repository](#creeating-this-repository)
 6. [List of tasks for this assigments](#list-of-tasks-for-this-assigments)
 
 ## Demo of Code
@@ -34,7 +34,7 @@ def hello(name):
 
 My favorite search engine is  [Google](https://www.google.com/)
 
-## Creeating this repository
+## Creating this repository
 1. to create this reposiory look at [Create Repo and switch branch](screenshots/Create_repo_and_switch_branch.png)
 2. to add branched readme file look at [update readme file](screenshots/Update_readme_file.png)
 3. to see how I added the private.txt file look at [private](screenshots/Added_private_and_gitignore.png)
